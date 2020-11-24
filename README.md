@@ -1,5 +1,9 @@
-# Chrome
-Настройки Chrome
+<small>
+  
+# chrome-force-flags
+
+Флаги настройки Chrome:
+
 ```txt
 "Очистить кэш за считанные секунды"
 chrome://settings/clearBrowserData
@@ -22,3 +26,4 @@ chrome://flags/, #Force Dark Mode for Web Contents
 "Удаление нежелательных приложений"
 chrome://apps/
 ```
+</small>
